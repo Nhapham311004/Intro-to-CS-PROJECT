@@ -1,0 +1,14 @@
+# path: D:\New folder\OneDrive - student.vgu.edu.vn\CSE\project\trafic_data
+# train: ../train/images
+# val: ../valid/images
+
+# nc: 21
+# names: ['ambulance', 'army vehicle', 'auto rickshaw', 'bicycle', 'bus', 'car', 'garbagevan', 'human hauler', 'minibus', 'minivan', 'motorbike', 'pickup', 'policecar', 'rickshaw', 'scooter', 'suv', 'taxi', 'three wheelers -CNG-', 'truck', 'van', 'wheelbarrow']
+
+
+path: D:\New folder\OneDrive - student.vgu.edu.vn\CSE\project\car_detection
+train: ../train/images
+val: ../train/images
+
+names: 
+  0: car
